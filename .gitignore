@@ -1,0 +1,10 @@
+/target/
+*.class
+.classpath
+.project
+.tomcatplugin
+/.settings/
+
+#intellij
+*.iml
+/.idea/
